@@ -3,6 +3,13 @@
 The following guide will help you quickly upgrade from C++11 to C++20 by covering the key features introduced in C++14, C++17, and C++20.
 Each feature includes examples to illustrate how they work, enabling you to adopt modern C++ programming practices.
 
+### Compile sample
+
+```bash
+g++ -std=c++20 -o program sample.cpp
+
+```
+
 ---
 
 ## **Table of Contents**
